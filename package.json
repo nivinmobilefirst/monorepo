@@ -1,0 +1,14 @@
+{
+  "name": "sample_Mono_Repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "project1",
+    "project2"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
