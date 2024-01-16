@@ -7,6 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "project2": "^1.0.1"
+    "project2": "^1.0.1",
+    "shared": "^0.2.0"
   }
 }

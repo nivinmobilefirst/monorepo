@@ -6,7 +6,8 @@
   "private": true,
   "workspaces": [
     "project1",
-    "project2"
+    "project2",
+    "shared"
   ],
   "dependencies": {
     "express": "^4.17.1"

@@ -1,12 +1,9 @@
 {
-  "name": "project2",
+  "name": "shared",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
+    "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {
-    "shared": "^0.2.0"
   }
 }
